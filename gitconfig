@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = leonardovdb.lvdb@gmail.com
+	name = Leonardo Van den Berghe
